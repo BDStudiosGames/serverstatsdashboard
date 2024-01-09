@@ -1,0 +1,4 @@
+name: ServerStatsDashboard
+version: 1.0
+main: com.gamerzdev.serverstatsdashboard.ServerStatsPlugin
+api-version: 1.20
